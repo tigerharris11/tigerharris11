@@ -4,7 +4,7 @@ Operations and data analyst in Chicago. Five years in mortgage lending, now buil
 SQL reconciliation, Python automation, and AI workflows with a human approval step built in.
 
 - Reconciled **31,239 records** against a second source and traced **1,138 exceptions** to a cause
-- Built an AI follow-up assistant for a loan pipeline in two days; a person approves every message
+- Built an AI follow-up assistant for my own past clients and leads in two days; a person approves every message
 - Built a daily AI video pipeline that now runs **3 YouTube channels** (150,000+ views)
 - Maintain **80 Claude agent skills** with a loop that turns every correction into a written rule
 
